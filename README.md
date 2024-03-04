@@ -1,1 +1,1 @@
-Este código pertence a Alura, disponibilizado para o curso sobre github.
+🐱💻 Este código pertence a Alura, e está sendo disponibilizado para o curso sobre github.
